@@ -1,0 +1,56 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    font-family: "Oswald", serif;
+}
+
+ul li{
+    list-style-type: none;
+    font-size: 20px;
+}
+
+ul{
+    border: #0C55A4 2px solid;
+    padding: 30px;
+    width: fit-content;
+}
+
+nav{
+    padding: 20px 50px 20px 50px;
+    display: flex;
+    align-items: center;
+}
+
+#navImage{
+    width: 70px;
+}
+
+nav span{
+    margin-left: 20px;
+    font-size: 30px;
+    color: #0C55A4;
+}
+
+#header{
+    color: white;
+    background-color: #0C55A4;
+    padding: 30px;
+}
+
+#seconSec{
+    color: #0C55A4;
+    padding: 30px;
+    padding-bottom: 0%;
+}
+
+#thridSec{
+    color: #0C55A4;
+    padding: 30px;
+    padding-top: 0%;
+}
+
+#fourthSec{
+    color: white;
+    background-color: #0C55A4;
+    padding: 30px;
+}
